@@ -1,0 +1,23 @@
+{
+  "_vendor-M-meK0bE.js": {
+    "file": "assets/vendor-M-meK0bE.js"
+  },
+  "assets/logo.png": {
+    "file": "assets/logo-j5j6qipL.png",
+    "src": "assets/logo.png"
+  },
+  "main.js": {
+    "assets": [
+      "assets/logo-j5j6qipL.png"
+    ],
+    "css": [
+      "assets/main-J8iTBGna.css"
+    ],
+    "file": "assets/main-K7NH4Vx4.js",
+    "imports": [
+      "_vendor-M-meK0bE.js"
+    ],
+    "isEntry": true,
+    "src": "main.js"
+  }
+}

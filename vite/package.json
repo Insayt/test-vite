@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "APP_ENV=development vite",
+    "build": "vite build",
+    "ssr": "node ssr.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsdom": "^23.2.0",
+    "vue": "^3.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.1",
+    "@vue/compiler-sfc": "^3.3.8",
+    "vite": "^5.0.0",
+    "vite-plugin-live-reload": "^3.0.2"
+  }
+}
